@@ -1,6 +1,7 @@
 import React from "react";
 import { Link } from "react-router-dom";
 import Portrait from "../assets/images/backgroundTwo.png";
+import '../styles/Home.css'
 
 function Home() {
   return (
