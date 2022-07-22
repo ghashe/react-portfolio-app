@@ -1,4 +1,8 @@
 .project {
     flex-direction: column;
     margin-bottom: 200px;
+    margin-top: 50px;
+}
+.card-body a{
+    margin: 30px;
 }

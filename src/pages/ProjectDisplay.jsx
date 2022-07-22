@@ -15,7 +15,10 @@ function ProjectDisplay() {
       <p>
         <b>Skills:</b> {project.skills}
           </p>
-      <FaGithub/>
+          <FaGithub />
+          <p>
+         {project.link}
+          </p>
     </div>
   );
 }
