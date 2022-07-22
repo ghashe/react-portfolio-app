@@ -1,7 +1,7 @@
 import React from "react";
 import { Link } from "react-router-dom";
 import Portrait from "../assets/images/backgroundTwo.png";
-import '../styles/Home.css'
+import "../styles/Home.css";
 
 function Home() {
   return (
@@ -12,7 +12,7 @@ function Home() {
       <div className="title">
         <h1>Hi, I'm Abyou</h1>
         <p>Welcome to my Professional Portfolio!</p>
-        <Link to="portfolio">
+        <Link to="/projects">
           <button>View my Projects</button>
         </Link>
       </div>

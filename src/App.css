@@ -95,19 +95,6 @@ p {
   margin-top: var(--spacing-five);
   margin-bottom: var(--spacing-five);
 }
-/* 
-button {
-  border: none;
-  outline: none;
-  border-radius: 55px;
-  color: #fff;
-  background: #076bee;
-  cursor: pointer;
-  font-size: 18px;
-  font-weight: 400;
-  margin-bottom: 30px;
-  padding: 20px 25px;
-} */
 
 button {
   height: 150px;
@@ -120,7 +107,7 @@ button {
   cursor: pointer;
   font-size: 18px;
   font-weight: 200;
-  margin-bottom: 30px;
+  margin-bottom: 150px;
   padding: 12px 15px;
   transition: transform 0.6s ease-out;
   display: inline-block;
@@ -131,4 +118,32 @@ button:hover {
   color: #f30000;
   transition: 0.4s;
   transform: scale(1.1);
+}
+
+button {
+  height: 150px;
+  width: 150px;
+  background-color: #0089fa;
+  border: none;
+  outline: none;
+  border-radius: 100px;
+  color: #fff;
+  cursor: pointer;
+  font-size: 18px;
+  font-weight: 200;
+  margin-bottom: 150px;
+  padding: 12px 15px;
+  transition: transform 0.6s ease-out;
+  display: inline-block;
+}
+
+
+@media only screen and (max-width: 900px) {
+  button {
+    margin-bottom: 150px;
+    padding: 1px 1px;
+
+}
+
+
 }
