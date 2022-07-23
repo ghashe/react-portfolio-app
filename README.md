@@ -52,10 +52,12 @@ This is a simple, user-friendly, and responsive multi page React portfolio site 
 
 4. To use the app locally, using the command line, you should run npm start to start the application, and then open https://localhost:3000/ in any web browser to launch the app. If you make any edits, the page will reload.
 
-- The app is also live at the following link:
-- [live on Heroku](https://aqueous-meadow-86713.heroku/)
+The app is also live at the following link:
 
-- You can clone the most recent version of repo into your machine
+- [Live on Github](https://ghashe.github.io/react-portfolio/)
+
+You can clone the most recent version of repo into your machine
+
 - [Github](https://github.com/ghashe/react-portfolio)
 
 ## Features
