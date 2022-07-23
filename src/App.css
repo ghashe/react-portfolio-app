@@ -137,13 +137,9 @@ button {
   display: inline-block;
 }
 
-
 @media only screen and (max-width: 900px) {
   button {
     margin-bottom: 150px;
     padding: 1px 1px;
-
-}
-
-
+  }
 }

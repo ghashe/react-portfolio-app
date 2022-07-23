@@ -7,7 +7,7 @@ import {
   FaTwitter,
   FaInstagram,
 } from "react-icons/fa";
-import '../styles/Footer.css';
+import "../styles/Footer.css";
 
 function Footer() {
   return (
