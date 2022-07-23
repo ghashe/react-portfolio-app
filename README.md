@@ -1,70 +1,120 @@
-# Getting Started with Create React App
+# React Portfolio Website🔥
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![Badge](https://img.shields.io/badge/License-MIT-blue.svg)
 
-## Available Scripts
+## Table of Content
 
-In the project directory, you can run:
+- [Description](#description)
+- [Website Preview](#website-preview)
+- [Installation and Deployment](#installation-and-deployment)
+- [Features](#features)
+- [Sections](#sections)
+- [ Built With](#built-with)
+- [Contributing](#contributing)
+- [License](#license)
+- [Questions](#questions)
 
-### `npm start`
+## Description
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+This is a simple, user-friendly, and responsive multi page React portfolio site built for Abyou Geletu that shows of my projects I created, skills and talents to employers looking to fill a part-time or full-time position.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Website Preview
 
-### `npm test`
+### Home Page
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+![alt text](./src/assets/images/pages/home.png)
 
-### `npm run build`
+### Projects Page
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+![alt text](./src/assets/images/pages/projects.png)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Experience Page
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+![alt text](./src/assets/images/pages/experience.png)
 
-### `npm run eject`
+### Mobile View
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+![alt text](./src/assets/images/pages/mobile-view.png)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### Add Post
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## Installation and Deployment
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+# 📦
 
-## Learn More
+## Installation
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+1. In order to use this application, simply git clone the repo to your local so that you have the React project there on your local machine.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+2. Use npm install to install the npm package dependencies listed in your package.json.
 
-### Code Splitting
+3. In the project directory, run npm start.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+4. To use the app locally, using the command line, you should run npm start to start the application, and then open https://localhost:3000/ in any web browser to launch the app. If you make any edits, the page will reload.
 
-### Analyzing the Bundle Size
+- The app is also live at the following link:
+- [live on Heroku](https://aqueous-meadow-86713.heroku/)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+- You can clone the most recent version of repo into your machine
+- [Github](https://github.com/ghashe/react-portfolio)
 
-### Making a Progressive Web App
+## Features
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+# 📋
 
-### Advanced Configuration
+📖 Multi-Page Layout
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+🎨 Styled with React-Bootstrap and Css with easy to customize colors
 
-### Deployment
+📱 Fully Responsive
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+## Sections
 
-### `npm run build` fails to minify
+# 📚
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+✔️ Header  
+✔️ Home Page  
+✔️ Projects Page  
+✔️ Experience Page  
+✔️ Contact Page  
+✔️ Footer
+
+## Built With
+
+# 🛠️
+
+This project was built using these technologies.  
+✔️ HTM  
+✔️ CSS  
+✔️ JavaScript ES6  
+✔️ Node.js  
+✔️ React  
+✔️ Github ( for version controll and hosting platform)
+
+## Contributing
+
+# 💡
+
+It would be great if you could contribute in any way
+
+- 👯 Git clone the repo to your local machine
+- 🔨🔨🔨 Develop your code
+- 🔃 Create a new pull request.
+
+## License
+
+- [MIT](https://github.com/ghashe/License) license has been applied to this project
+
+## Questions
+
+    If you have any questions, feel free to contact me via the following contact information:
+
+- Emain: emandaabyou@gmail.com
+- GitHub account: [ghashe](https://github.com/ghashe)
+- Linkedin: https://www.linkedin.com/in/abyou-geletu-5ba16622b
+
+---
+
+_This README has been generated by ❤ [Professional-README-generator](https://github.com/ghashe/professional-README-generator) © 2022_
+
+---
