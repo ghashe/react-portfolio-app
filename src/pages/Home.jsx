@@ -1,6 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import Portrait from "../assets/images/backgroundTwo.png";
+import Portrait from "../assets/images/pages/background.png";
 import "../styles/Home.css";
 
 function Home() {
