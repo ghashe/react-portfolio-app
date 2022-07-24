@@ -1,6 +1,6 @@
 import React from "react";
-import "./App.css";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+
 import Home from "./pages/Home";
 import Projects from "./pages/Projects";
 import Experience from "./pages/Experience";
@@ -9,17 +9,20 @@ import Footer from "./components/Footer";
 import Navbar from "./components/Navbar";
 import ProjectDisplay from "./pages/ProjectDisplay";
 
+import "./App.css";
+
 function App() {
   return (
     <div className="App">
       <Router>
         <Navbar />
         <Routes>
-          <Route path="/" element={<Home />} />
-          <Route path="/projects" element={<Projects />} />
-          <Route path="/project/:id" element={<ProjectDisplay />} />
-          <Route path="/experience" element={<Experience />} />
-          <Route path="/contact" element={<Contact />} />
+          <Route exast path="/" />
+          <Route path="/home" exast element={<Home />} />
+          <Route path="/projects" exast element={<Projects />} />
+          <Route path="/project/:id" exast element={<ProjectDisplay />} />
+          <Route path="/experience" exast element={<Experience />} />
+          <Route path="/contact" exast element={<Contact />} />
         </Routes>
         <Footer />
       </Router>

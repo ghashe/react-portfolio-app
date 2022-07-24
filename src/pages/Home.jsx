@@ -13,7 +13,7 @@ function Home() {
         <h1>Hi, I'm Abyou</h1>
         <p>Welcome to my Professional Portfolio!</p>
         <Link to="/projects">
-          <button>View my Projects</button>
+          <button> <p>View My Projects</p> </button>
         </Link>
       </div>
     </section>

@@ -64,3 +64,8 @@
     width: 100%;
   }
 }
+
+button p{
+  padding: 10px; 
+  padding-top: 20px;
+}

@@ -56,6 +56,15 @@
   font-size: 25px;
 }
 
+.card-body a {
+  margin: 10px;
+}
+
+.project button svg {
+  font-size: 60px;
+  color: #ffffff;
+}
+
 @media only screen and (max-width: 1300px) {
   .Lists {
     grid-template-columns: 1fr 1fr;
