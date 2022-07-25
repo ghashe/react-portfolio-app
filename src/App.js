@@ -14,7 +14,7 @@ import "./App.css";
 function App() {
   return (
     <div className="App">
-      <Router basename="/react-portfolio-app">
+      <Router>
         <Navbar />
         <Routes>
           <Route exast path="/" />

@@ -2,7 +2,7 @@
   "name": "react-portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://ghashe.github.io/react-portfolio",
+  "homepage": "http://ghashe.github.io/react-portfolio-app",
   "dependencies": {
     "@emailjs/browser": "^3.6.2",
     "@mui/icons-material": "^5.8.4",

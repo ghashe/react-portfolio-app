@@ -54,11 +54,11 @@ This is a simple, user-friendly, and responsive multi page React portfolio site 
 
 The app is also live at the following link:
 
-- [Live on Github](https://ghashe.github.io/react-portfolio/)
+- [Live on Github](https://ghashe.github.io/react-portfolio-app/)
 
 You can clone the most recent version of repo into your machine
 
-- [Github](https://github.com/ghashe/react-portfolio)
+- [Github](https://github.com/ghashe/react-portfolio-app/)
 
 ## Features
 
