@@ -12,7 +12,7 @@ import ProjectDisplay from "./pages/ProjectDisplay";
 function App() {
   return (
     <div className="App">
-      <Router>
+      <Router basename="/react-portfolio-app">
         <Navbar />
         <Routes>
           <Route path="/" element={<Home />} />
