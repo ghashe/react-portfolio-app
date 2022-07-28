@@ -1,7 +1,7 @@
 {
-  "main.css": "/react-portfolio-app/static/css/main.e7604599.chunk.css",
-  "main.js": "/react-portfolio-app/static/js/main.aa45fd6d.chunk.js",
-  "main.js.map": "/react-portfolio-app/static/js/main.aa45fd6d.chunk.js.map",
+  "main.css": "/react-portfolio-app/static/css/main.788fcfb9.chunk.css",
+  "main.js": "/react-portfolio-app/static/js/main.118a6f14.chunk.js",
+  "main.js.map": "/react-portfolio-app/static/js/main.118a6f14.chunk.js.map",
   "static/js/1.ce47ab81.chunk.js": "/react-portfolio-app/static/js/1.ce47ab81.chunk.js",
   "static/js/1.ce47ab81.chunk.js.map": "/react-portfolio-app/static/js/1.ce47ab81.chunk.js.map",
   "static/css/2.b9e195aa.chunk.css": "/react-portfolio-app/static/css/2.b9e195aa.chunk.css",
@@ -17,9 +17,9 @@
   "static/media/project-5.png": "/react-portfolio-app/static/media/project-5.6ee1057f.png",
   "static/media/project-6.png": "/react-portfolio-app/static/media/project-6.849c1d31.png",
   "static/media/my_profile_pic.jpg": "/react-portfolio-app/static/media/my_profile_pic.d529a369.jpg",
-  "static/css/main.e7604599.chunk.css.map": "/react-portfolio-app/static/css/main.e7604599.chunk.css.map",
+  "static/css/main.788fcfb9.chunk.css.map": "/react-portfolio-app/static/css/main.788fcfb9.chunk.css.map",
   "static/css/2.b9e195aa.chunk.css.map": "/react-portfolio-app/static/css/2.b9e195aa.chunk.css.map",
   "index.html": "/react-portfolio-app/index.html",
-  "precache-manifest.4273566c95a3b4905072f7d571dac925.js": "/react-portfolio-app/precache-manifest.4273566c95a3b4905072f7d571dac925.js",
+  "precache-manifest.d9b00d6fdb495efdb12c144b43ba83e0.js": "/react-portfolio-app/precache-manifest.d9b00d6fdb495efdb12c144b43ba83e0.js",
   "service-worker.js": "/react-portfolio-app/service-worker.js"
 }
