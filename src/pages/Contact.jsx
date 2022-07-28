@@ -1,6 +1,7 @@
 import "../styles/Contact.css";
 import React from "react";
 import emailjs from "emailjs-com";
+import Emoji from "a11y-react-emoji";
 
 export default function Contact() {
   function sendEmail(e) {
@@ -28,17 +29,22 @@ export default function Contact() {
   }
 
   return (
-    <form className="contact-form" onSubmit={sendEmail}>
-      <input type="hidden" name="contact_number" />
-      <label>Name</label>
-      <input type="text" name="from_name" />
-      <label>Email</label>
-      <input type="email" name="from_email" />
-      <label>Subject</label>
-      <input type="text" name="from_name" />
-      <label>Message</label>
-      <textarea name="message" />
-      <input type="submit" value="Send" />
-    </form>
+    <div className="form_container">
+      <h1>I’d Love to Hear from You </h1>
+      <form className="contact-form" onSubmit={sendEmail}>
+        <input type="hidden" name="contact_number" />
+        <label>
+          Hi <Emoji symbol="👋" label="love" /> What's your name?
+        </label>
+        <input type="text" name="from_name" />
+        <label>What's your email?</label>
+        <input type="email" name="from_email" />
+        <label>Subject</label>
+        <input type="text" name="from_name" />
+        <label>Message</label>
+        <textarea name="message" />
+        <input type="submit" value="Send" />
+      </form>
+    </div>
   );
 }

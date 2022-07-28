@@ -69,7 +69,7 @@ function Footer() {
               </li>
             </a>
           </li>
-          <li>
+          <li className="instagram">
             <a
               href="https://www.instagram.com/ins_abyou/"
               target="_blank"

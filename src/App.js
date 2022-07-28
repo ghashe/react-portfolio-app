@@ -7,6 +7,8 @@ import Experience from "./pages/Experience";
 import Contact from "./pages/Contact";
 import Footer from "./components/Footer";
 import Navbar from "./components/Navbar";
+
+import Title from "./components/Title";
 import ProjectDisplay from "./pages/ProjectDisplay";
 
 import "./App.css";
@@ -15,9 +17,12 @@ function App() {
   return (
     <div className="App">
       <Router>
+        {/* <Router basename="/react-portfolio-app"> */}
         <Navbar />
+        <Title />
+
         <Routes>
-          <Route exast path="/" />
+          <Route exast path="/" element={<Home />} />
           <Route path="/home" exast element={<Home />} />
           <Route path="/projects" exast element={<Projects />} />
           <Route path="/project/:id" exast element={<ProjectDisplay />} />
