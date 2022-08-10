@@ -4,6 +4,7 @@ import project3 from "../assets/images/projects/project-3.png";
 import project4 from "../assets/images/projects/project-4.png";
 import project5 from "../assets/images/projects/project-5.png";
 import project6 from "../assets/images/projects/project-6.png";
+import project7 from "../assets/images/projects/project-7.png";
 
 import "../styles/Lists.css";
 
@@ -67,8 +68,36 @@ export const Lists = [
     ),
   },
   {
-    name: "Tech Blog",
+    name: "Pet Pals",
     image: project3,
+    skills:
+      "React, MongoDB/Mongoose, CSS, Bootstrap, Javascript, GraphQL-Apollo, Jwt, NodeJS, Express",
+    link: (
+      <div class="card-body">
+        <a
+          href="https://github.com/chrislee-webdev/pet-tinder/"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <button>
+            <FaGithub />
+          </button>
+        </a>
+        <a
+          href="https://pet-pal-friend-finder.herokuapp.com/"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <button>
+            <CgWebsite />
+          </button>
+        </a>
+      </div>
+    ),
+  },
+  {
+    name: "Tech Blog",
+    image: project4,
     skills:
       "HTML, CSS, JavaScript ES6, Node.js, Express.js, dotenv, MySQL, Sequelize,  bcrypt, handlebars, Heroku, JawsDB",
     link: (
@@ -96,7 +125,7 @@ export const Lists = [
   },
   {
     name: "Note Taker Application",
-    image: project4,
+    image: project5,
     skills: "HTML, CSS, Bootstrap, JavaScript, Node.js, Express.js, Uniqid",
     link: (
       <div class="card-body">
@@ -123,7 +152,7 @@ export const Lists = [
   },
   {
     name: "Work Day Scheduler",
-    image: project5,
+    image: project6,
     skills: "JavaScript, Semantic HTMLHTML, CSS, Bootstrap, jQuery,  Moment.js",
     link: (
       <div class="card-body">
@@ -150,7 +179,7 @@ export const Lists = [
   },
   {
     name: "Trip Planner",
-    image: project6,
+    image: project7,
     skills:
       "HTML, CSS, JavaScript, TailwindCSS, Open Weather API, Ticketmaster, positionstack",
     link: (

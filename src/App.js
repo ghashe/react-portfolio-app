@@ -17,7 +17,7 @@ function App() {
   return (
     <div className="App">
       <Router>
-        {/* <Router basename="/react-portfolio-app"> */}
+        <Router basename="/react-portfolio-app" />
         <Navbar />
         <Title />
 
